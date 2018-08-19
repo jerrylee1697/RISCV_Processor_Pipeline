@@ -1,0 +1,875 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/users/ugrad/2017/fall/jerrl10/EECS112L/lab-1/sim
+vadder
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1521188074
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+Ia:ja76V9=J=OQQMZheIDB0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+Z3 d/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/sim
+Z4 w1521187336
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/adder.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/adder.sv
+L0 3
+Z5 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z6 !s108 1521188074.000000
+Z7 !s107 /users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/HazardDetection.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/ForwardingUnit.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/WriteBack.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Memory.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Execute.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/InstructionDecode.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/InstructionFetch.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Registers.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux8.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux4.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/RISC_V.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Datapath.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Controller.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/RegFile.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/alu.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/ALUController.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/instructionmemory.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/datamemory.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux2.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/imm_Gen.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/flopr.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/adder.sv|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/my_112l_pkg.sv|
+Z8 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/rtl.cfg|
+!i113 0
+Z9 o-quiet -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu
+R0
+R1
+!i10b 1
+!s100 7I3G2;kSJD90d]cFcJ7[X2
+IzSg@OaD]DXcBL9Q<IaZZO2
+R2
+!s105 alu_sv_unit
+S1
+R3
+R4
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/alu.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/alu.sv
+Z10 L0 23
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vALUController
+R0
+R1
+!i10b 1
+!s100 R_ZbLLEY53GWi94XKEaGS2
+I0VbBMbhRZ0z4MGW8De5J:3
+R2
+!s105 ALUController_sv_unit
+S1
+R3
+R4
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/ALUController.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/ALUController.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@a@l@u@controller
+vController
+R0
+R1
+!i10b 1
+!s100 AaLhMiOT_JSK`U2?oDknY2
+IGCTOXD2gf6<>4gFGM=1bo0
+R2
+!s105 Controller_sv_unit
+S1
+R3
+Z11 w1521187337
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Controller.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Controller.sv
+Z12 L0 22
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@controller
+vdatamemory
+R0
+R1
+!i10b 1
+!s100 iT?@9ZF43Pac984U5VPIB2
+IF4`MUkZQVf3MPNFA5F8GJ3
+R2
+!s105 datamemory_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/datamemory.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/datamemory.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vDatapath
+R0
+R1
+!i10b 1
+!s100 ^Knc:P?c`km:dBzCP6hGm1
+I29PNfWQEABGRlbF1V`CEC2
+R2
+!s105 Datapath_sv_unit
+S1
+R3
+R4
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Datapath.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Datapath.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@datapath
+vEX_MEM_Reg
+R0
+Z13 DXx4 work 11 my_112l_pkg 0 22 9Q7CZ0I>[jR3<`dNWKVi33
+Z14 DXx4 work 17 Registers_sv_unit 0 22 U3GlDIMi9UGK;OKAa9N;[3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 HcYU6>di8HzSDZ07K_0c21
+IC_:QC>6]Knk3Z^QYi;ib50
+Z15 !s105 Registers_sv_unit
+S1
+R3
+Z16 w1521187737
+Z17 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Registers.sv
+Z18 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Registers.sv
+L0 59
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@e@x_@m@e@m_@reg
+vexecute
+R0
+R13
+DXx4 work 15 Execute_sv_unit 0 22 ^XS_hl1O7<HzSB@74;[El1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 gazld?e_C@Gzmz_=AG0731
+IAb20WmA_dnGfaBiCT[ONR2
+!s105 Execute_sv_unit
+S1
+R3
+Z19 w1521188073
+Z20 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Execute.sv
+Z21 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Execute.sv
+L0 5
+R5
+R6
+R7
+R8
+!i113 0
+R9
+XExecute_sv_unit
+R0
+R13
+V^XS_hl1O7<HzSB@74;[El1
+r1
+!s85 0
+31
+!i10b 1
+!s100 2?`8_z0Oa:Yb01ga>[gof1
+I^XS_hl1O7<HzSB@74;[El1
+!i103 1
+S1
+R3
+R19
+R20
+R21
+L0 3
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@execute_sv_unit
+vflopr
+R0
+R1
+!i10b 1
+!s100 B6BS^>`X=WIeQVmG9i5VI0
+I:ojJKX6V]?B^R:G9TCMcW1
+R2
+!s105 flopr_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/flopr.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/flopr.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vforward
+R0
+R13
+DXx4 work 22 ForwardingUnit_sv_unit 0 22 ENGlM8jCLGR^_8SZcB?NJ0
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 AzC@PgdzGS?lK;hkIXfUM1
+I;2j5BlPiZjShD<d:O:ULm0
+!s105 ForwardingUnit_sv_unit
+S1
+R3
+R11
+Z22 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/ForwardingUnit.sv
+Z23 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/ForwardingUnit.sv
+L0 5
+R5
+R6
+R7
+R8
+!i113 0
+R9
+XForwardingUnit_sv_unit
+R0
+R13
+VENGlM8jCLGR^_8SZcB?NJ0
+r1
+!s85 0
+31
+!i10b 1
+!s100 7l[0U5:zQk=<flUaHAL]C2
+IENGlM8jCLGR^_8SZcB?NJ0
+!i103 1
+S1
+R3
+R11
+R22
+R23
+L0 3
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@forwarding@unit_sv_unit
+XHazardDetection_sv_unit
+R0
+R13
+Va^VnQ;bLfQE;H4=Fo@4941
+r1
+!s85 0
+31
+!i10b 1
+!s100 o`4oUc_22`?VgXn6IeR151
+Ia^VnQ;bLfQE;H4=Fo@4941
+!i103 1
+S1
+R3
+R11
+Z24 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/HazardDetection.sv
+Z25 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/HazardDetection.sv
+L0 3
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@hazard@detection_sv_unit
+vHazardUnit
+R0
+R13
+DXx4 work 23 HazardDetection_sv_unit 0 22 a^VnQ;bLfQE;H4=Fo@4941
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]0=4h>SEcgobnUk<1?Yhj0
+IQ9bh^9YJDI:2Nlb=z3B5h3
+!s105 HazardDetection_sv_unit
+S1
+R3
+R11
+R24
+R25
+L0 5
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@hazard@unit
+vID_EX_Reg
+R0
+R13
+R14
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 LH_e1h0;S=ggdeGKA6eLJ1
+I`NY;9`>fL9di[b9MYdZJQ2
+R15
+S1
+R3
+R16
+R17
+R18
+R10
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@i@d_@e@x_@reg
+vIF_ID_Reg
+R0
+R13
+R14
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 cLTVdz474Vkc;HS[>`9Pj2
+IM^QA9EKf38iQ6m@=A]j5G1
+R15
+S1
+R3
+R16
+R17
+R18
+L0 5
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@i@f_@i@d_@reg
+vimm_Gen
+R0
+R1
+!i10b 1
+!s100 :5Fhz:3TP7@icSfVPO6PR3
+ITk4m32D0;GAza^Ngh5AWU2
+R2
+!s105 imm_Gen_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/imm_Gen.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/imm_Gen.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nimm_@gen
+vinstructiondecode
+R0
+R13
+DXx4 work 25 InstructionDecode_sv_unit 0 22 YBhWbSnj8lGE2ic:JY4m]1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 `aY4O5Bb?C9^Pjk3Mjih62
+Ig^6KP?2X2nVgHb2oIBNU:1
+!s105 InstructionDecode_sv_unit
+S1
+R3
+Z26 w1521187994
+Z27 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/InstructionDecode.sv
+Z28 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/InstructionDecode.sv
+L0 5
+R5
+R6
+R7
+R8
+!i113 0
+R9
+XInstructionDecode_sv_unit
+R0
+R13
+VYBhWbSnj8lGE2ic:JY4m]1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ><_BNSdMPT;[JbUz@aoUU0
+IYBhWbSnj8lGE2ic:JY4m]1
+!i103 1
+S1
+R3
+R26
+R27
+R28
+L0 3
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@instruction@decode_sv_unit
+vinstructionfetch
+R0
+R13
+DXx4 work 24 InstructionFetch_sv_unit 0 22 PXzTXe4zZERoRSU<J[0FE2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 :d[743=Wooegl]5F?o3cA1
+IA;R1n_0X4lNlNjhnP[gQi3
+!s105 InstructionFetch_sv_unit
+S1
+R3
+Z29 w1521187779
+Z30 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/InstructionFetch.sv
+Z31 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/InstructionFetch.sv
+L0 5
+R5
+R6
+R7
+R8
+!i113 0
+R9
+XInstructionFetch_sv_unit
+R0
+R13
+VPXzTXe4zZERoRSU<J[0FE2
+r1
+!s85 0
+31
+!i10b 1
+!s100 g@Go`niALmT]moPn?bC2k1
+IPXzTXe4zZERoRSU<J[0FE2
+!i103 1
+S1
+R3
+R29
+R30
+R31
+L0 3
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@instruction@fetch_sv_unit
+vinstructionmemory
+R0
+R1
+!i10b 1
+!s100 maz>ZnKjkc^0YfYVh=gFC0
+IVm9ZAM4ImbcB]Kze7Ro8M1
+R2
+!s105 instructionmemory_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/instructionmemory.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/instructionmemory.sv
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vMEM_WB_Reg
+R0
+R13
+R14
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 fIK9MkHGgd4RnmAZDIPdz0
+I@Li5OL5K:FCT@_9Ci`=mz2
+R15
+S1
+R3
+R16
+R17
+R18
+L0 90
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@m@e@m_@w@b_@reg
+vmemory
+R0
+R13
+DXx4 work 14 Memory_sv_unit 0 22 9VJ3ZaW6cMHoSb_FBNjG`3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 N6W68`m]LIXaD^9bI6jK90
+IM6d0eknlKBORzf<CNHA[e3
+!s105 Memory_sv_unit
+S1
+R3
+R11
+Z32 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Memory.sv
+Z33 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/Memory.sv
+L0 5
+R5
+R6
+R7
+R8
+!i113 0
+R9
+XMemory_sv_unit
+R0
+R13
+V9VJ3ZaW6cMHoSb_FBNjG`3
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]SP_3LE:SohLDagniCD2I1
+I9VJ3ZaW6cMHoSb_FBNjG`3
+!i103 1
+S1
+R3
+R11
+R32
+R33
+L0 3
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@memory_sv_unit
+vmux2
+R0
+R1
+!i10b 1
+!s100 @X6>V^M3YMfab:XdY67SE1
+I6_NaYB9jd>Q9@1N<1>5H61
+R2
+!s105 mux2_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux2.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux2.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vmux4
+R0
+R1
+!i10b 1
+!s100 N@FBm9:1M>G8gR^=0f?<;1
+IRzTWIe<CG09jg17dh`ie<3
+R2
+!s105 mux4_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux4.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux4.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vmux8
+R0
+R1
+!i10b 1
+!s100 Ck_P@_QZ2d;gLzB3NWL8Q3
+IKgbMMbF>Xhj25NZj[^;]E3
+R2
+!s105 mux8_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux8.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/mux8.sv
+R10
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+Xmy_112l_pkg
+R0
+R1
+!i10b 1
+!s100 nEL5JEJITO8Ub:bLXI1<^3
+I9Q7CZ0I>[jR3<`dNWKVi33
+V9Q7CZ0I>[jR3<`dNWKVi33
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/my_112l_pkg.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/my_112l_pkg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vRegFile
+R0
+R1
+!i10b 1
+!s100 Sge?JJ8I@K7Mn9AC]fY0:3
+IQSge^L3HCE1J9nB>J=9Dj2
+R2
+!s105 RegFile_sv_unit
+S1
+R3
+R11
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/RegFile.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/RegFile.sv
+L0 4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@file
+XRegisters_sv_unit
+R0
+R13
+VU3GlDIMi9UGK;OKAa9N;[3
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z2E[G^:N?IG@<dPnHT61=3
+IU3GlDIMi9UGK;OKAa9N;[3
+!i103 1
+S1
+R3
+R16
+R17
+R18
+L0 3
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@registers_sv_unit
+XRISC_V_sv_unit
+R0
+R13
+V83<[_;<IW3kVi?]dMPVH;0
+r1
+!s85 0
+31
+!i10b 1
+!s100 A58kfQQgYmV24_gGdalIZ1
+I83<[_;<IW3kVi?]dMPVH;0
+!i103 1
+S1
+R3
+Z34 w1521188053
+Z35 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/RISC_V.sv
+Z36 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/RISC_V.sv
+L0 4
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@r@i@s@c_@v_sv_unit
+vriscv
+R0
+R13
+DXx4 work 14 RISC_V_sv_unit 0 22 83<[_;<IW3kVi?]dMPVH;0
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 m<9lXUf06G7PYzBWFi2U`2
+IS][Of>3fj8MY<n[1jg>fS0
+!s105 RISC_V_sv_unit
+S1
+R3
+R34
+R35
+R36
+L0 6
+R5
+R6
+R7
+R8
+!i113 0
+R9
+vtb_top
+R0
+R1
+!i10b 1
+!s100 6V;M5efd@IOoKPjE_W8DA3
+Ii_k=_Vh0M2En:Sf9kAEcT2
+R2
+!s105 tb_top_sv_unit
+S1
+R3
+w1521187340
+8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/verif/tb_top.sv
+F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/verif/tb_top.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+!s107 /users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/verif/tb_top.sv|
+!s90 -quiet|-64|-sv|-f|/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/verif/tb.cfg|-work|work|
+!i113 0
+o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Ttb_top_opt
+R1
+VgF72U>_HfD5Mn:on2E<7B3
+04 6 4 work tb_top fast 0
+o-quiet +acc -work work
+ntb_top_opt
+OL;O;10.4c;61
+vwriteback
+R0
+R13
+DXx4 work 17 WriteBack_sv_unit 0 22 a>e1P5RB6G48DO<emb[OE2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 O=aRkjNAodRGWA;NVlP5U2
+I<;hUm0XLD6d`Q6D;IU?an0
+!s105 WriteBack_sv_unit
+S1
+R3
+Z37 w1521187497
+Z38 8/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/WriteBack.sv
+Z39 F/users/ugrad/2017/fall/jerrl10/EECS112L/lab3/forwardinglab/design/WriteBack.sv
+L0 6
+R5
+R6
+R7
+R8
+!i113 0
+R9
+XWriteBack_sv_unit
+R0
+R13
+Va>e1P5RB6G48DO<emb[OE2
+r1
+!s85 0
+31
+!i10b 1
+!s100 cf`l5]TRO1Eh2^E:JX1];2
+Ia>e1P5RB6G48DO<emb[OE2
+!i103 1
+S1
+R3
+R37
+R38
+R39
+L0 4
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@write@back_sv_unit
